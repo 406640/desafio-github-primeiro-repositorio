@@ -3,6 +3,8 @@ Desafio de projeto sobre Git/GitHub
 
 # :cake: Bolo Simples
 
+![Meu Bolo](bolo.jpg)
+
 ## INGREDIENTES 
 
 * 2 xícaras (chá) de açúcar
